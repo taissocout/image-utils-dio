@@ -1,3 +1,4 @@
 [2026-03-12] #0001  Improved error messages  // feat: implement image dimensionality reduction package 
 [2026-03-12] #0002  Added input validation  // feat: implement image dimensionality reduction package 
 [2026-03-12] #0003  Improved variable naming  // chore: initialize image-utils-dio package structure
+[2026-03-12] #0004  Improved error messages  // feat: add ImageProcessor base class with OOP structure
