@@ -3,3 +3,4 @@
 [2026-03-12] #0003  Improved variable naming  // chore: initialize image-utils-dio package structure
 [2026-03-12] #0004  Improved error messages  // feat: add ImageProcessor base class with OOP structure
 [2026-03-12] #0005  Added guard clause  // feat: implement pixel-by-pixel grayscale conversion
+[2026-03-12] #0006  Cleaned up unused imports  // feat: add image resize method with aspect ratio preserv
