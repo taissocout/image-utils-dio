@@ -11,3 +11,4 @@
 [2026-03-12] #0011  Added input validation  // docs: add docstrings to all public methods
 [2026-03-12] #0012  Fixed off-by-one error  // test: add unit tests for grayscale conversion
 [2026-03-12] #0013  Centralised constants  // test: add test for resize with known dimensions
+[2026-03-12] #0014  Patched edge case in parser  // fix: correct channel order for RGB to grayscale formula
