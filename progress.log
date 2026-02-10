@@ -12,3 +12,4 @@
 [2026-03-12] #0012  Fixed off-by-one error  // test: add unit tests for grayscale conversion
 [2026-03-12] #0013  Centralised constants  // test: add test for resize with known dimensions
 [2026-03-12] #0014  Patched edge case in parser  // fix: correct channel order for RGB to grayscale formula
+[2026-03-12] #0015  Patched edge case in parser  // feat: add batch processing for multiple images
