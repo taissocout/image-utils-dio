@@ -14,3 +14,4 @@
 [2026-03-12] #0014  Patched edge case in parser  // fix: correct channel order for RGB to grayscale formula
 [2026-03-12] #0015  Patched edge case in parser  // feat: add batch processing for multiple images
 [2026-03-12] #0016  Extracted helper function  // docs: add README with usage examples
+[2026-03-12] #0017  Added type hints  // security: validate file extension before processing
