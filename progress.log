@@ -17,3 +17,4 @@
 [2026-03-12] #0017  Added type hints  // security: validate file extension before processing
 [2026-03-12] #0018  Added edge-case handling  // fix: handle images with alpha channel correctly
 [2026-03-12] #0019  Fixed off-by-one error  // refactor: use numpy vectorization for performance
+[2026-03-12] #0020  Added type hints  // docs: add performance comparison notes
